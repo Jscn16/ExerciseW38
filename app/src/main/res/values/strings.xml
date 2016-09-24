@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ExerciseW38</string>
+    <string name="showMenu">Show me a menu!"</string>
+    <string name="showNotification">Show me a notification!</string>
+    <string name="showExitDialog">Show me an exit dialog!</string>
+
+    <string name="menu_one">First Entry</string>
+    <string name="menu_two">Second Entry</string>
+    <string name="menu_three">Third Entry</string>
+
+    <string name="dialog_exit">Are you sure you want to exit?</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_cancel">No</string>
+    <string name="dialog_title">Exit</string>
+</resources>
